@@ -46,7 +46,7 @@
     "superagent": "^5.1.0",
     "through2": "^3.0.0",
     "through2-batch": "^1.0.1",
-    "unzipper": "^0.10.9"
+    "unzipper": "^0.10.10"
   },
   "devDependencies": {
     "jshint": "^2.9.3",
